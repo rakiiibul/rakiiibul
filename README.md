@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raikibul Hasan</h1>
-<h3 align="center">Master student of Data Science | Support Researcher at SnT</h3>
+<h3 align="center">Master student of Data Science | Application Support Developer at Interdisciplinary Centre for Security, Reliability and Trust (SnT)</h3>
 
 
 
